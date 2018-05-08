@@ -1,10 +1,10 @@
-def my_collect(languages)
-  empty_array = 0
+def my_collect(array)
+  counter = 0
 
-  while empty_array < languages.length
-    yield(languages.upcase)
+  while counter < array.length
+    yield(array.upcase)
 
-    empty_array += 1
+    counter += 1
   end
 
 end
