@@ -6,5 +6,5 @@ def my_collect(languages)
 
     empty_array += 1
   end
-  
+
 end
