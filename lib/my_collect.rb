@@ -4,7 +4,7 @@ def my_collect(collection)
   while
   my_collect(collection) do |x|
     lang.upcase
-    counter += 1
+    empty_array += 1
   end
-end
+  end
 end
