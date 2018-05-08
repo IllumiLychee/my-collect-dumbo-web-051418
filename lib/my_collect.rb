@@ -6,5 +6,5 @@ def my_collect(collection)
     lang.upcase
     counter += 1
   end
-
+end
 end
