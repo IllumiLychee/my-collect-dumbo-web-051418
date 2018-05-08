@@ -6,5 +6,5 @@ def my_collect(array)
 
     counter += 1
   end
-  return my_collection
+  
 end
